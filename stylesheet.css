@@ -1,0 +1,25 @@
+article {
+    width: 700px;
+    margin: auto;
+    background-color: black;
+    padding: 20px;
+}
+
+body {
+    color: rgb(245, 241, 245);
+    font-size: 1.3em;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(243, 243, 243);
+}
+
+p {
+    line-height: 1.5em;
+
+}
+h1, h2 {
+    color: rgb(172, 13, 13);
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    text-transform: uppercase;
+}
